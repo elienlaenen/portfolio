@@ -1,9 +1,9 @@
 @font-face {
     font-family: "century_old_style_revival_tRg";
-    src: url("file:///C:/Users/elien/Documents/eigen%20projecten/site/Fonts/elienlaenen_revival-webfont.eot");
-    src: url("file:///C:/Users/elien/Documents/eigen%20projecten/site/Fonts/elienlaenen_revival-webfont.woff") format("woff"),
-        url("file:///C:/Users/elien/Documents/eigen%20projecten/site/Fonts/elienlaenen_revival-webfont.ttf") format("truetype"),
-        url("file:///C:/Users/elien/Documents/eigen%20projecten/site/Fonts/elienlaenen_revival-webfont.svg#TypoRevival") format("svg");
+    src: url("Fonts/elienlaenen_revival-webfont.eot");
+    src: url("Fonts/elienlaenen_revival-webfont.woff") format("woff"),
+        url("Fonts/elienlaenen_revival-webfont.ttf") format("truetype"),
+        url("Fonts/elienlaenen_revival-webfont.svg#TypoRevival") format("svg");
     font-weight: normal;
     font-style: normal;
 }

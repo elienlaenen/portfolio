@@ -188,8 +188,8 @@ p3 {
     position: absolute;
     top: 0px;
     width: auto;
-    height: 100%;
-    padding: 20%;
+    height: 80%;
+    padding: 10%;
     color: transparent;
     font-weight: bold;
     font-size: 18px;
@@ -199,12 +199,11 @@ p3 {
 
 .prev {
     cursor: url(pijlL2.png), pointer;
-    ;
     position: absolute;
     top: 0px;
     width: auto;
-    height: 100%;
-    padding: 20%;
+    height: 80%;
+    padding: 10%;
     color: transparent;
     font-weight: bold;
     font-size: 18px;

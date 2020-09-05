@@ -61,32 +61,49 @@
     }
 }
 
+.animated {
+      resize: both;
+  overflow: auto;
+   
+}
+
 h1 span {
+
+    font-size: 600%;
+    font-size-adjust: auto;
+    padding-right: 5%;
     font-family: "drupeletregular";
-    font-size: 1700%;
-    text-align: center;
+    text-align: left;
     font-weight: normal;
+    display: inline-block;
     animation-name: h1;
     animation-duration: 3s;
     animation-direction: alternate;
+
 
     -webkit-animation: fade-in 2s ease-in 0s infinite alternate both;
     animation: fade-in 2s ease-in 0s infinite alternate both;
 }
 
 h1 span:nth-child(2) {
+    display: inline-block;
+    width: 100%;
     animation-delay: 2s;
     -ms-animation-delay: 2s;
     -webkit-animation-delay: 2s;
 }
 
 h1 span:nth-child(3) {
+    display: inline-block;
+    width: 100%;
     animation-delay: 3s;
     -ms-animation-delay: 3s;
     -webkit-animation-delay: 3s;
 }
 
 h1 span:nth-child(4) {
+    display: inline-block;
+    width: 100%;
     animation-delay: 5s;
     -ms-animation-delay: 5s;
     -webkit-animation-delay: 5s;
@@ -106,6 +123,7 @@ h3 {
     font-weight: normal;
     font-size: 100%;
     padding-left: 47%;
+    padding-right: 5%;
 }
 
 h4 {
